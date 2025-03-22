@@ -1,4 +1,4 @@
-SQL Gym Management System Database
+**SQL Gym Management System Database**
 This repository contains the SQL database script for a Gym Management System. The database script is designed to support the functionality of a gym management software. It includes both Data Definition Language (DDL) and Data Manipulation Language (DML) statements to create and manage the database.
 
 Overview
